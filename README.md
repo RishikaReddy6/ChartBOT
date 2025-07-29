@@ -1,4 +1,4 @@
-# Smart CSV Visualizer MVP
+# ChartBOT - Smart CSV Visualizer MVP
 
 A simple, interactive web app that turns any CSV into charts just by typing what you need. Powered by Google Gemini for natural-language parsing and Plotly for beautiful, interactive visuals.
 
